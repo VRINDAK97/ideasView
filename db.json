@@ -1,42 +1,14 @@
-[
-  {
-    "id": "1",
-    "name": "Amitha Thampy",
-    "title": "Idea Title 1",
-    "date": "20/02/2020",
-    "status": "Approved",
-    "rate": "5"
-  },
-  {
-    "id": "2",
-    "name": "Ranjitha B",
-    "title": "Idea Title 2",
-    "date": "21/02/2020",
-    "status": "Rejected",
-    "rate": "2"
-  },
-  {
-    "id": "3",
-    "name": "Aiswarya Binu",
-    "title": "Idea Title 3",
-    "date": "22/02/2020",
-    "status": "Approved",
-    "rate": "3"
-  },
-  {
-    "id": "4",
-    "name": "Asnad Khan",
-    "title": "Idea Title 4",
-    "date": "23/02/2020",
-    "status": "Rejected",
-    "rate": "1"
-  },
-  {
-    "id": "5",
-    "name": "Vrinda Sree",
-    "title": "Idea Title 5",
-    "date": "24/02/2020",
-    "status": "Rejected",
-    "rate": "2"
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
