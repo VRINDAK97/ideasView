@@ -12,6 +12,7 @@
       "id": "2",
       "name": "Ranjitha B",
       "title": "Idea Title 2",
+      "description":"This impressive paella is a perfect partydish and a fun meal to cook together withyour guests.",
       "date": "20/02/2020 - 20/02/2020",
       "rate": "2"
     },
@@ -19,6 +20,7 @@
       "id": "3",
       "name": "Aiswarya Binu",
       "title": "Idea Title 3",
+      "description":"This impressive paella is a perfect partydish and a fun meal to cook together withyour guests.",  
       "date": "20/02/2020 - 20/02/2020",
       "rate": "3"
     },
@@ -26,6 +28,7 @@
       "id": "4",
       "name": "Asnad Khan",
       "title": "Idea Title 4",
+      "description":"This impressive paella is a perfect partydish and a fun meal to cook together withyour guests.",  
       "date": "20/02/2020 - 20/02/2020",
       "rate": "1"
     },
@@ -33,6 +36,7 @@
       "id": "5",
       "name": "Vrinda Sree",
       "title": "Idea Title 5",
+      "description":"This impressive paella is a perfect partydish and a fun meal to cook together withyour guests.",
       "date": "20/02/2020 - 20/02/2020",
       "rate": "2"
     }
