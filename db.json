@@ -33,7 +33,7 @@
        "date": "20/02/2020 - 20/02/2020",
     },
     {
-      id: "5",
+      "id": "5",
       "name": "Aiswarya",
       "title": "Event Title 5",
        "description":
@@ -49,7 +49,7 @@
        "date": "20/02/2020 - 20/02/2020",
     },
     {
-      id: "7",
+      "id": "7",
       "name": "Ranjitha",
       "title": "Event Title 2",
       "description":
